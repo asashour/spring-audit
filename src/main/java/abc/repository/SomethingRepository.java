@@ -1,4 +1,4 @@
-package abc.dao;
+package abc.repository;
 
 import abc.entity.Something;
 import org.springframework.data.jpa.repository.JpaRepository;
