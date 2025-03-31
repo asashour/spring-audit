@@ -11,7 +11,7 @@
     <artifactId>abc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <properties>
-        <java.version>23</java.version>
+        <java.version>24</java.version>
     </properties>
     <dependencies>
         <dependency>
@@ -28,7 +28,7 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.36</version>
+            <version>1.18.38</version>
         </dependency>
         <dependency>
             <groupId>com.h2database</groupId>
