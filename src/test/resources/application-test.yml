@@ -1,6 +1,11 @@
+darkmon:
+  development: true
+
 spring:
   datasource:
     url: jdbc:h2:mem:dev;DB_CLOSE_DELAY=-1
+    username: dev
+    password: GbWXna2tBBGfjqaK
   jpa:
     hibernate:
       ddl-auto: create-drop
